@@ -8,10 +8,10 @@ This script takes in a regular image and produces a high-quality, carefully thou
 Sometimes it gets too abstract, so you can pass in a command line flag to label things in the image for you so you can still tell what they are.
 
 <img src="https://github.com/davepagurek/good-portraits/blob/master/out.jpg?raw=true" width="500" />
-*"The turmoil of the soul"*, 2017
+<em>"The turmoil of the soul", 2017</em>
 
 <img src="https://github.com/davepagurek/good-portraits/blob/master/out2.jpg?raw=true" width="500" />
-*"Life is meaningless"*, 2017
+<em>"Life is meaningless", 2017</em>
 
 ## Setup
 Install darknet as per the instructions here: https://github.com/moovel/node-yolo
