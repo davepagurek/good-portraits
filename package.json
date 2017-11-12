@@ -1,0 +1,14 @@
+{
+  "name": "good-portraits",
+  "version": "1.0.0",
+  "description": "Good portraits",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@moovel/yolo": "^0.2.0",
+    "canvas": "^2.0.0-alpha.6",
+    "cardinal-spline-js": "^2.3.6",
+    "jimp": "^0.2.28",
+    "opencv": "^6.0.0"
+  }
+}
